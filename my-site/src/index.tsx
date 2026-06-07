@@ -48,7 +48,7 @@ app.get(
             </div>
 
             <p class="text-xs text-slate-400 mt-10 text-center">
-              Built with Hono + Tailwind &middot; Deployed on Cloudflare Workers
+              Built with Hono + Tailwind &middot; Deployed on Cloudflare Workers &middot; Experimental branch!
             </p>
           </main>
         </body>
