@@ -1,0 +1,7 @@
+*.mp4
+*.mp3
+*.wav
+*.bin
+frames/
+node_modules/
+.wrangler/
